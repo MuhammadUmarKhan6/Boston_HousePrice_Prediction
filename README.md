@@ -23,7 +23,7 @@ This project predicts Boston house prices using **Linear Regression** and evalua
 
 ## Files in this Repository
 - `Boston_House_Prediction.ipynb` – Jupyter Notebook with code, predictions, metrics, and plots.
-- `Screenshots1/` – Folder containing output screenshots:
+- `Screenshots1` – Folder containing output screenshots:
   - `RMSE_Output.png` – RMSE evaluation result
   - `Actual_vs_Predicted_Plot.png` – Scatter plot of true vs predicted prices
 
