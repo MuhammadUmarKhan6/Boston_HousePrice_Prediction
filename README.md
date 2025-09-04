@@ -21,6 +21,14 @@ This project predicts Boston house prices using **Linear Regression** and evalua
 - RMSE reflects the average prediction error.
 - Scatter plot shows how close predictions are to actual prices.
 
+## Practical Use
+This project demonstrates how machine learning can predict house prices based on key property features. It can help:  
+- **Homebuyers:** Estimate a fair price before making a purchase.  
+- **Investors:** Evaluate potential returns and make informed investment decisions.  
+- **Banks/Financial Institutions:** Assess property value for loans or risk analysis.  
+
+By turning real estate data into actionable price predictions, this model provides insights for everyday decisions and financial planning.
+
 ## Files in this Repository
 - `Boston_House_Prediction.ipynb` – Jupyter Notebook with code, predictions, metrics, and plots.
 - `Screenshots1` – Folder containing output screenshots:
